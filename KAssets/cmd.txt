@@ -1,0 +1,2 @@
+..\jdk-12.0.2\bin\java.exe -jar .\kparser_0.2.jar scml %image% %build% %anim%
+..\jdk-12.0.2\bin\java.exe -jar .\kparser_0.2.jar kanim %scml%

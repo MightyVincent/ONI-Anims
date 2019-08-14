@@ -1,0 +1,552 @@
+
+auto_miner.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+electric_wave_base
+  rotate: false
+  xy: 292, 386
+  size: 122, 74
+  orig: 122, 74
+  offset: 0, 0
+  index: 18
+electric_wave_base
+  rotate: false
+  xy: 416, 386
+  size: 122, 74
+  orig: 122, 74
+  offset: 0, 0
+  index: 19
+electric_wave_base
+  rotate: false
+  xy: 294, 184
+  size: 122, 70
+  orig: 122, 70
+  offset: 0, 0
+  index: 15
+electric_wave_base
+  rotate: false
+  xy: 540, 386
+  size: 100, 74
+  orig: 100, 74
+  offset: 0, 0
+  index: 24
+electric_wave_base
+  rotate: false
+  xy: 294, 114
+  size: 122, 68
+  orig: 122, 68
+  offset: 0, 0
+  index: 30
+electric_wave_base
+  rotate: false
+  xy: 292, 44
+  size: 124, 68
+  orig: 124, 68
+  offset: 0, 0
+  index: 31
+electric_wave_base
+  rotate: false
+  xy: 418, 130
+  size: 112, 78
+  orig: 112, 78
+  offset: 0, 0
+  index: 6
+electric_wave_base
+  rotate: false
+  xy: 418, 50
+  size: 112, 78
+  orig: 112, 78
+  offset: 0, 0
+  index: 7
+electric_wave_base
+  rotate: false
+  xy: 560, 1142
+  size: 84, 70
+  orig: 84, 70
+  offset: 0, 0
+  index: 1
+electric_wave_base
+  rotate: false
+  xy: 558, 1062
+  size: 84, 78
+  orig: 84, 78
+  offset: 0, 0
+  index: 3
+electric_wave_base
+  rotate: false
+  xy: 569, 220
+  size: 116, 68
+  orig: 116, 68
+  offset: 0, 0
+  index: 8
+electric_wave_base
+  rotate: false
+  xy: 532, 148
+  size: 120, 70
+  orig: 120, 70
+  offset: 0, 0
+  index: 14
+electric_wave_base
+  rotate: false
+  xy: 532, 80
+  size: 122, 66
+  orig: 122, 66
+  offset: 0, 0
+  index: 34
+electric_wave_base
+  rotate: false
+  xy: 532, 2
+  size: 108, 76
+  orig: 108, 76
+  offset: 0, 0
+  index: 23
+electric_wave_base
+  rotate: false
+  xy: 878, 1862
+  size: 122, 66
+  orig: 122, 66
+  offset: 0, 0
+  index: 35
+electric_wave_base
+  rotate: false
+  xy: 1002, 1860
+  size: 116, 68
+  orig: 116, 68
+  offset: 0, 0
+  index: 9
+electric_wave_base
+  rotate: false
+  xy: 1120, 1850
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: 2
+electric_wave_base
+  rotate: false
+  xy: 1204, 1858
+  size: 112, 72
+  orig: 112, 72
+  offset: 0, 0
+  index: 21
+electric_wave_base
+  rotate: false
+  xy: 1318, 1858
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: 20
+electric_wave_base
+  rotate: false
+  xy: 1430, 1866
+  size: 116, 64
+  orig: 116, 64
+  offset: 0, 0
+  index: 33
+electric_wave_base
+  rotate: false
+  xy: 1548, 1866
+  size: 114, 64
+  orig: 114, 64
+  offset: 0, 0
+  index: 32
+electric_wave_base
+  rotate: false
+  xy: 1664, 1860
+  size: 108, 70
+  orig: 108, 70
+  offset: 0, 0
+  index: 17
+electric_wave_base
+  rotate: false
+  xy: 1774, 1858
+  size: 106, 72
+  orig: 106, 72
+  offset: 0, 0
+  index: 22
+electric_wave_base
+  rotate: false
+  xy: 1882, 1856
+  size: 104, 74
+  orig: 104, 74
+  offset: 0, 0
+  index: 25
+electric_wave_base
+  rotate: false
+  xy: 1430, 1796
+  size: 106, 68
+  orig: 106, 68
+  offset: 0, 0
+  index: 12
+electric_wave_base
+  rotate: false
+  xy: 1538, 1796
+  size: 106, 68
+  orig: 106, 68
+  offset: 0, 0
+  index: 13
+electric_wave_base
+  rotate: false
+  xy: 1646, 1790
+  size: 106, 68
+  orig: 106, 68
+  offset: 0, 0
+  index: 29
+electric_wave_base
+  rotate: false
+  xy: 1754, 1786
+  size: 104, 70
+  orig: 104, 70
+  offset: 0, 0
+  index: 16
+electric_wave_base
+  rotate: false
+  xy: 1860, 1782
+  size: 104, 72
+  orig: 104, 72
+  offset: 0, 0
+  index: 27
+electric_wave_base
+  rotate: false
+  xy: 562, 898
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: 0
+electric_wave_base
+  rotate: false
+  xy: 548, 824
+  size: 102, 72
+  orig: 102, 72
+  offset: 0, 0
+  index: 26
+electric_wave_base
+  rotate: false
+  xy: 550, 754
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: 10
+electric_wave_base
+  rotate: false
+  xy: 550, 684
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: 11
+electric_wave_base
+  rotate: false
+  xy: 580, 612
+  size: 84, 70
+  orig: 84, 70
+  offset: 0, 0
+  index: 4
+electric_wave_base
+  rotate: false
+  xy: 580, 540
+  size: 84, 70
+  orig: 84, 70
+  offset: 0, 0
+  index: 5
+electric_wave_base
+  rotate: false
+  xy: 580, 470
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: 28
+electric_wave_connect
+  rotate: false
+  xy: 2, 1922
+  size: 292, 124
+  orig: 292, 124
+  offset: 0, 0
+  index: 32
+electric_wave_connect
+  rotate: false
+  xy: 2, 1796
+  size: 292, 124
+  orig: 292, 124
+  offset: 0, 0
+  index: 33
+electric_wave_connect
+  rotate: false
+  xy: 296, 1924
+  size: 290, 122
+  orig: 290, 122
+  offset: 0, 0
+  index: 12
+electric_wave_connect
+  rotate: false
+  xy: 2, 1672
+  size: 290, 122
+  orig: 290, 122
+  offset: 0, 0
+  index: 13
+electric_wave_connect
+  rotate: false
+  xy: 296, 1802
+  size: 288, 120
+  orig: 288, 120
+  offset: 0, 0
+  index: 18
+electric_wave_connect
+  rotate: false
+  xy: 588, 1926
+  size: 288, 120
+  orig: 288, 120
+  offset: 0, 0
+  index: 19
+electric_wave_connect
+  rotate: false
+  xy: 2, 1554
+  size: 290, 116
+  orig: 290, 116
+  offset: 0, 0
+  index: 34
+electric_wave_connect
+  rotate: false
+  xy: 878, 1930
+  size: 290, 116
+  orig: 290, 116
+  offset: 0, 0
+  index: 35
+electric_wave_connect
+  rotate: false
+  xy: 2, 1438
+  size: 290, 114
+  orig: 290, 114
+  offset: 0, 0
+  index: 14
+electric_wave_connect
+  rotate: false
+  xy: 1170, 1932
+  size: 290, 114
+  orig: 290, 114
+  offset: 0, 0
+  index: 15
+electric_wave_connect
+  rotate: false
+  xy: 2, 1316
+  size: 282, 120
+  orig: 282, 120
+  offset: 0, 0
+  index: 0
+electric_wave_connect
+  rotate: false
+  xy: 2, 1194
+  size: 282, 120
+  orig: 282, 120
+  offset: 0, 0
+  index: 1
+electric_wave_connect
+  rotate: false
+  xy: 1462, 1932
+  size: 286, 114
+  orig: 286, 114
+  offset: 0, 0
+  index: 22
+electric_wave_connect
+  rotate: false
+  xy: 1750, 1932
+  size: 286, 114
+  orig: 286, 114
+  offset: 0, 0
+  index: 23
+electric_wave_connect
+  rotate: false
+  xy: 2, 1074
+  size: 280, 118
+  orig: 280, 118
+  offset: 0, 0
+  index: 20
+electric_wave_connect
+  rotate: false
+  xy: 2, 954
+  size: 280, 118
+  orig: 280, 118
+  offset: 0, 0
+  index: 21
+electric_wave_connect
+  rotate: false
+  xy: 2, 838
+  size: 284, 114
+  orig: 284, 114
+  offset: 0, 0
+  index: 24
+electric_wave_connect
+  rotate: false
+  xy: 2, 722
+  size: 284, 114
+  orig: 284, 114
+  offset: 0, 0
+  index: 25
+electric_wave_connect
+  rotate: false
+  xy: 2, 608
+  size: 286, 112
+  orig: 286, 112
+  offset: 0, 0
+  index: 31
+electric_wave_connect
+  rotate: false
+  xy: 2, 496
+  size: 288, 110
+  orig: 288, 110
+  offset: 0, 0
+  index: 8
+electric_wave_connect
+  rotate: false
+  xy: 2, 384
+  size: 288, 110
+  orig: 288, 110
+  offset: 0, 0
+  index: 9
+electric_wave_connect
+  rotate: false
+  xy: 2, 274
+  size: 290, 108
+  orig: 290, 108
+  offset: 0, 0
+  index: 11
+electric_wave_connect
+  rotate: false
+  xy: 2, 166
+  size: 290, 106
+  orig: 290, 106
+  offset: 0, 0
+  index: 10
+electric_wave_connect
+  rotate: false
+  xy: 2, 56
+  size: 288, 108
+  orig: 288, 108
+  offset: 0, 0
+  index: 26
+electric_wave_connect
+  rotate: false
+  xy: 296, 1706
+  size: 292, 94
+  orig: 292, 94
+  offset: 0, 0
+  index: 6
+electric_wave_connect
+  rotate: false
+  xy: 294, 1596
+  size: 288, 108
+  orig: 288, 108
+  offset: 0, 0
+  index: 27
+electric_wave_connect
+  rotate: false
+  xy: 294, 1486
+  size: 286, 108
+  orig: 286, 108
+  offset: 0, 0
+  index: 30
+electric_wave_connect
+  rotate: false
+  xy: 294, 1390
+  size: 292, 94
+  orig: 292, 94
+  offset: 0, 0
+  index: 7
+electric_wave_connect
+  rotate: false
+  xy: 286, 1268
+  size: 272, 120
+  orig: 272, 120
+  offset: 0, 0
+  index: 2
+electric_wave_connect
+  rotate: false
+  xy: 286, 1146
+  size: 272, 120
+  orig: 272, 120
+  offset: 0, 0
+  index: 3
+electric_wave_connect
+  rotate: false
+  xy: 284, 1032
+  size: 272, 112
+  orig: 272, 112
+  offset: 0, 0
+  index: 16
+electric_wave_connect
+  rotate: false
+  xy: 288, 918
+  size: 272, 112
+  orig: 272, 112
+  offset: 0, 0
+  index: 17
+electric_wave_connect
+  rotate: false
+  xy: 288, 796
+  size: 258, 120
+  orig: 258, 120
+  offset: 0, 0
+  index: 4
+electric_wave_connect
+  rotate: false
+  xy: 290, 674
+  size: 258, 120
+  orig: 258, 120
+  offset: 0, 0
+  index: 5
+electric_wave_connect
+  rotate: false
+  xy: 292, 568
+  size: 286, 104
+  orig: 286, 104
+  offset: 0, 0
+  index: 28
+electric_wave_connect
+  rotate: false
+  xy: 292, 462
+  size: 286, 104
+  orig: 286, 104
+  offset: 0, 0
+  index: 29
+gun
+  rotate: false
+  xy: 560, 1214
+  size: 70, 174
+  orig: 70, 174
+  offset: 0, 0
+  index: 0
+gun_target
+  rotate: false
+  xy: 442, 210
+  size: 70, 174
+  orig: 70, 174
+  offset: 0, 0
+  index: 0
+place
+  rotate: false
+  xy: 514, 252
+  size: 53, 132
+  orig: 53, 132
+  offset: 0, 0
+  index: 0
+rod
+  rotate: false
+  xy: 562, 964
+  size: 66, 96
+  orig: 66, 96
+  offset: 0, 0
+  index: 0
+source_glow
+  rotate: false
+  xy: 569, 290
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: 0
+ui
+  rotate: false
+  xy: 294, 256
+  size: 146, 128
+  orig: 146, 128
+  offset: 0, 0
+  index: 0
