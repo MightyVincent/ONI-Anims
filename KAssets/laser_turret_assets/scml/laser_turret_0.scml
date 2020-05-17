@@ -79,6 +79,9 @@
         <file id="75" name="rod_0" width="66" height="96" pivot_x="0.455682" pivot_y="0.479427"/>
         <file id="76" name="source_glow_0" width="94" height="94" pivot_x="0.5" pivot_y="0.499867"/>
         <file id="77" name="ui_0" width="146" height="128" pivot_x="0.504795" pivot_y="0.100293"/>
+        <file id="78" name="electric_wave_base_5.png" width="84" height="70" pivot_x="0" pivot_y="1"/>
+        <file id="79" name="electric_wave_base_0.png" width="84" height="64" pivot_x="0" pivot_y="1"/>
+        <file id="80" name="electric_wave_connect_0.png" width="282" height="120" pivot_x="0" pivot_y="1"/>
     </folder>
     <entity id="0" name="auto_miner">
         <animation id="0" name="on" length="132" interval="33">
@@ -277,6 +280,8 @@
                     <object_ref id="4" timeline="37" key="0" z_index="4"/>
                     <object_ref id="5" timeline="36" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="0" z_index="6"/>
+                    <object_ref id="7" timeline="182" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="183" key="0" z_index="8"/>
                 </key>
                 <key id="1" time="33">
                     <object_ref id="0" timeline="180" key="1" z_index="0"/>
@@ -286,6 +291,8 @@
                     <object_ref id="4" timeline="41" key="0" z_index="4"/>
                     <object_ref id="5" timeline="40" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="1" z_index="6"/>
+                    <object_ref id="7" timeline="185" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="184" key="0" z_index="8"/>
                 </key>
                 <key id="2" time="66">
                     <object_ref id="0" timeline="180" key="2" z_index="0"/>
@@ -295,6 +302,8 @@
                     <object_ref id="4" timeline="85" key="0" z_index="4"/>
                     <object_ref id="5" timeline="84" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="2" z_index="6"/>
+                    <object_ref id="7" timeline="187" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="186" key="0" z_index="8"/>
                 </key>
                 <key id="3" time="99">
                     <object_ref id="0" timeline="180" key="3" z_index="0"/>
@@ -304,6 +313,8 @@
                     <object_ref id="4" timeline="129" key="0" z_index="4"/>
                     <object_ref id="5" timeline="128" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="3" z_index="6"/>
+                    <object_ref id="7" timeline="189" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="188" key="0" z_index="8"/>
                 </key>
                 <key id="4" time="132">
                     <object_ref id="0" timeline="180" key="4" z_index="0"/>
@@ -313,6 +324,8 @@
                     <object_ref id="4" timeline="157" key="0" z_index="4"/>
                     <object_ref id="5" timeline="156" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="4" z_index="6"/>
+                    <object_ref id="7" timeline="191" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="190" key="0" z_index="8"/>
                 </key>
                 <key id="5" time="165">
                     <object_ref id="0" timeline="180" key="5" z_index="0"/>
@@ -322,6 +335,8 @@
                     <object_ref id="4" timeline="161" key="0" z_index="4"/>
                     <object_ref id="5" timeline="160" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="5" z_index="6"/>
+                    <object_ref id="7" timeline="192" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="193" key="0" z_index="8"/>
                 </key>
                 <key id="6" time="198">
                     <object_ref id="0" timeline="180" key="6" z_index="0"/>
@@ -331,6 +346,8 @@
                     <object_ref id="4" timeline="165" key="0" z_index="4"/>
                     <object_ref id="5" timeline="164" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="6" z_index="6"/>
+                    <object_ref id="7" timeline="195" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="194" key="0" z_index="8"/>
                 </key>
                 <key id="7" time="231">
                     <object_ref id="0" timeline="180" key="7" z_index="0"/>
@@ -340,6 +357,8 @@
                     <object_ref id="4" timeline="169" key="0" z_index="4"/>
                     <object_ref id="5" timeline="168" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="7" z_index="6"/>
+                    <object_ref id="7" timeline="196" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="197" key="0" z_index="8"/>
                 </key>
                 <key id="8" time="264">
                     <object_ref id="0" timeline="180" key="8" z_index="0"/>
@@ -349,6 +368,8 @@
                     <object_ref id="4" timeline="173" key="0" z_index="4"/>
                     <object_ref id="5" timeline="172" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="8" z_index="6"/>
+                    <object_ref id="7" timeline="199" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="198" key="0" z_index="8"/>
                 </key>
                 <key id="9" time="297">
                     <object_ref id="0" timeline="180" key="9" z_index="0"/>
@@ -358,6 +379,8 @@
                     <object_ref id="4" timeline="177" key="0" z_index="4"/>
                     <object_ref id="5" timeline="176" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="9" z_index="6"/>
+                    <object_ref id="7" timeline="200" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="201" key="0" z_index="8"/>
                 </key>
                 <key id="10" time="330">
                     <object_ref id="0" timeline="180" key="10" z_index="0"/>
@@ -367,6 +390,8 @@
                     <object_ref id="4" timeline="45" key="0" z_index="4"/>
                     <object_ref id="5" timeline="44" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="10" z_index="6"/>
+                    <object_ref id="7" timeline="203" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="202" key="0" z_index="8"/>
                 </key>
                 <key id="11" time="363">
                     <object_ref id="0" timeline="180" key="11" z_index="0"/>
@@ -376,6 +401,8 @@
                     <object_ref id="4" timeline="49" key="0" z_index="4"/>
                     <object_ref id="5" timeline="48" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="11" z_index="6"/>
+                    <object_ref id="7" timeline="205" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="204" key="0" z_index="8"/>
                 </key>
                 <key id="12" time="396">
                     <object_ref id="0" timeline="180" key="12" z_index="0"/>
@@ -385,6 +412,8 @@
                     <object_ref id="4" timeline="53" key="0" z_index="4"/>
                     <object_ref id="5" timeline="52" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="12" z_index="6"/>
+                    <object_ref id="7" timeline="207" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="206" key="0" z_index="8"/>
                 </key>
                 <key id="13" time="429">
                     <object_ref id="0" timeline="180" key="13" z_index="0"/>
@@ -394,6 +423,8 @@
                     <object_ref id="4" timeline="57" key="0" z_index="4"/>
                     <object_ref id="5" timeline="56" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="13" z_index="6"/>
+                    <object_ref id="7" timeline="208" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="209" key="0" z_index="8"/>
                 </key>
                 <key id="14" time="462">
                     <object_ref id="0" timeline="180" key="14" z_index="0"/>
@@ -403,6 +434,8 @@
                     <object_ref id="4" timeline="61" key="0" z_index="4"/>
                     <object_ref id="5" timeline="60" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="14" z_index="6"/>
+                    <object_ref id="7" timeline="211" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="210" key="0" z_index="8"/>
                 </key>
                 <key id="15" time="495">
                     <object_ref id="0" timeline="180" key="15" z_index="0"/>
@@ -412,6 +445,8 @@
                     <object_ref id="4" timeline="65" key="0" z_index="4"/>
                     <object_ref id="5" timeline="64" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="15" z_index="6"/>
+                    <object_ref id="7" timeline="212" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="213" key="0" z_index="8"/>
                 </key>
                 <key id="16" time="528">
                     <object_ref id="0" timeline="180" key="16" z_index="0"/>
@@ -421,6 +456,8 @@
                     <object_ref id="4" timeline="69" key="0" z_index="4"/>
                     <object_ref id="5" timeline="68" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="16" z_index="6"/>
+                    <object_ref id="7" timeline="215" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="214" key="0" z_index="8"/>
                 </key>
                 <key id="17" time="561">
                     <object_ref id="0" timeline="180" key="17" z_index="0"/>
@@ -430,6 +467,8 @@
                     <object_ref id="4" timeline="73" key="0" z_index="4"/>
                     <object_ref id="5" timeline="72" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="17" z_index="6"/>
+                    <object_ref id="7" timeline="216" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="217" key="0" z_index="8"/>
                 </key>
                 <key id="18" time="594">
                     <object_ref id="0" timeline="180" key="18" z_index="0"/>
@@ -439,6 +478,8 @@
                     <object_ref id="4" timeline="77" key="0" z_index="4"/>
                     <object_ref id="5" timeline="76" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="18" z_index="6"/>
+                    <object_ref id="7" timeline="218" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="219" key="0" z_index="8"/>
                 </key>
                 <key id="19" time="627">
                     <object_ref id="0" timeline="180" key="19" z_index="0"/>
@@ -448,6 +489,8 @@
                     <object_ref id="4" timeline="81" key="0" z_index="4"/>
                     <object_ref id="5" timeline="80" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="19" z_index="6"/>
+                    <object_ref id="7" timeline="220" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="221" key="0" z_index="8"/>
                 </key>
                 <key id="20" time="660">
                     <object_ref id="0" timeline="180" key="20" z_index="0"/>
@@ -457,6 +500,8 @@
                     <object_ref id="4" timeline="89" key="0" z_index="4"/>
                     <object_ref id="5" timeline="88" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="20" z_index="6"/>
+                    <object_ref id="7" timeline="223" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="222" key="0" z_index="8"/>
                 </key>
                 <key id="21" time="693">
                     <object_ref id="0" timeline="180" key="21" z_index="0"/>
@@ -466,6 +511,8 @@
                     <object_ref id="4" timeline="93" key="0" z_index="4"/>
                     <object_ref id="5" timeline="92" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="21" z_index="6"/>
+                    <object_ref id="7" timeline="224" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="225" key="0" z_index="8"/>
                 </key>
                 <key id="22" time="726">
                     <object_ref id="0" timeline="180" key="22" z_index="0"/>
@@ -475,6 +522,8 @@
                     <object_ref id="4" timeline="97" key="0" z_index="4"/>
                     <object_ref id="5" timeline="96" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="22" z_index="6"/>
+                    <object_ref id="7" timeline="226" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="227" key="0" z_index="8"/>
                 </key>
                 <key id="23" time="759">
                     <object_ref id="0" timeline="180" key="23" z_index="0"/>
@@ -484,6 +533,8 @@
                     <object_ref id="4" timeline="101" key="0" z_index="4"/>
                     <object_ref id="5" timeline="100" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="23" z_index="6"/>
+                    <object_ref id="7" timeline="228" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="229" key="0" z_index="8"/>
                 </key>
                 <key id="24" time="792">
                     <object_ref id="0" timeline="180" key="24" z_index="0"/>
@@ -493,6 +544,8 @@
                     <object_ref id="4" timeline="105" key="0" z_index="4"/>
                     <object_ref id="5" timeline="104" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="24" z_index="6"/>
+                    <object_ref id="7" timeline="230" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="231" key="0" z_index="8"/>
                 </key>
                 <key id="25" time="825">
                     <object_ref id="0" timeline="180" key="25" z_index="0"/>
@@ -502,6 +555,8 @@
                     <object_ref id="4" timeline="109" key="0" z_index="4"/>
                     <object_ref id="5" timeline="108" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="25" z_index="6"/>
+                    <object_ref id="7" timeline="232" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="233" key="0" z_index="8"/>
                 </key>
                 <key id="26" time="858">
                     <object_ref id="0" timeline="180" key="26" z_index="0"/>
@@ -511,6 +566,8 @@
                     <object_ref id="4" timeline="113" key="0" z_index="4"/>
                     <object_ref id="5" timeline="112" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="26" z_index="6"/>
+                    <object_ref id="7" timeline="234" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="235" key="0" z_index="8"/>
                 </key>
                 <key id="27" time="891">
                     <object_ref id="0" timeline="180" key="27" z_index="0"/>
@@ -520,6 +577,8 @@
                     <object_ref id="4" timeline="117" key="0" z_index="4"/>
                     <object_ref id="5" timeline="116" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="27" z_index="6"/>
+                    <object_ref id="7" timeline="237" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="236" key="0" z_index="8"/>
                 </key>
                 <key id="28" time="924">
                     <object_ref id="0" timeline="180" key="28" z_index="0"/>
@@ -529,6 +588,8 @@
                     <object_ref id="4" timeline="121" key="0" z_index="4"/>
                     <object_ref id="5" timeline="120" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="28" z_index="6"/>
+                    <object_ref id="7" timeline="239" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="238" key="0" z_index="8"/>
                 </key>
                 <key id="29" time="957">
                     <object_ref id="0" timeline="180" key="29" z_index="0"/>
@@ -538,6 +599,8 @@
                     <object_ref id="4" timeline="125" key="0" z_index="4"/>
                     <object_ref id="5" timeline="124" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="29" z_index="6"/>
+                    <object_ref id="7" timeline="241" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="240" key="0" z_index="8"/>
                 </key>
                 <key id="30" time="990">
                     <object_ref id="0" timeline="180" key="30" z_index="0"/>
@@ -547,6 +610,8 @@
                     <object_ref id="4" timeline="133" key="0" z_index="4"/>
                     <object_ref id="5" timeline="132" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="30" z_index="6"/>
+                    <object_ref id="7" timeline="243" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="242" key="0" z_index="8"/>
                 </key>
                 <key id="31" time="1023">
                     <object_ref id="0" timeline="180" key="31" z_index="0"/>
@@ -556,6 +621,8 @@
                     <object_ref id="4" timeline="137" key="0" z_index="4"/>
                     <object_ref id="5" timeline="136" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="31" z_index="6"/>
+                    <object_ref id="7" timeline="245" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="244" key="0" z_index="8"/>
                 </key>
                 <key id="32" time="1056">
                     <object_ref id="0" timeline="180" key="32" z_index="0"/>
@@ -565,6 +632,8 @@
                     <object_ref id="4" timeline="141" key="0" z_index="4"/>
                     <object_ref id="5" timeline="140" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="32" z_index="6"/>
+                    <object_ref id="7" timeline="246" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="247" key="0" z_index="8"/>
                 </key>
                 <key id="33" time="1089">
                     <object_ref id="0" timeline="180" key="33" z_index="0"/>
@@ -574,6 +643,8 @@
                     <object_ref id="4" timeline="145" key="0" z_index="4"/>
                     <object_ref id="5" timeline="144" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="33" z_index="6"/>
+                    <object_ref id="7" timeline="248" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="249" key="0" z_index="8"/>
                 </key>
                 <key id="34" time="1122">
                     <object_ref id="0" timeline="180" key="34" z_index="0"/>
@@ -583,6 +654,8 @@
                     <object_ref id="4" timeline="149" key="0" z_index="4"/>
                     <object_ref id="5" timeline="148" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="34" z_index="6"/>
+                    <object_ref id="7" timeline="250" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="251" key="0" z_index="8"/>
                 </key>
                 <key id="35" time="1155">
                     <object_ref id="0" timeline="180" key="35" z_index="0"/>
@@ -592,6 +665,8 @@
                     <object_ref id="4" timeline="153" key="0" z_index="4"/>
                     <object_ref id="5" timeline="152" key="0" z_index="5"/>
                     <object_ref id="6" timeline="181" key="35" z_index="6"/>
+                    <object_ref id="7" timeline="253" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="252" key="0" z_index="8"/>
                 </key>
             </mainline>
             <timeline id="0" name="electric_wave_base_0_0">
@@ -1712,6 +1787,366 @@
                 </key>
                 <key id="35" time="1155" spin="0">
                     <object folder="0" file="76" x="0.55" y="61.9" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="182" name="electric_wave_connect_0_5">
+                <key id="0" spin="0">
+                    <object folder="0" file="36" x="0.4875" y="556.8625" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="183" name="electric_wave_connect_0_4">
+                <key id="0" spin="0">
+                    <object folder="0" file="36" x="0.4875" y="676.48041" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="184" name="electric_wave_connect_1_4">
+                <key id="0" time="33" spin="0">
+                    <object folder="0" file="37" x="0.4875" y="677.523994" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="185" name="electric_wave_connect_1_5">
+                <key id="0" time="33" spin="0">
+                    <object folder="0" file="37" x="0.4875" y="556.80457" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="186" name="electric_wave_connect_2_4">
+                <key id="0" time="66" spin="0">
+                    <object folder="0" file="38" x="0.4875" y="676.67485" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="187" name="electric_wave_connect_2_5">
+                <key id="0" time="66" spin="0">
+                    <object folder="0" file="38" x="0.4875" y="556.67485" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="188" name="electric_wave_connect_3_0_000">
+                <key id="0" time="99" spin="0">
+                    <object folder="0" file="39" x="0.4875" y="676.47332" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="189" name="electric_wave_connect_3_1_000">
+                <key id="0" time="99" spin="0">
+                    <object folder="0" file="39" x="0.4875" y="556.47332" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="190" name="electric_wave_connect_4_0_000">
+                <key id="0" time="132" spin="0">
+                    <object folder="0" file="40" x="0.4875" y="676.2" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="191" name="electric_wave_connect_4_1_000">
+                <key id="0" time="132" spin="0">
+                    <object folder="0" file="40" x="0.4875" y="556.2" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="192" name="electric_wave_connect_5_1_000">
+                <key id="0" time="165" spin="0">
+                    <object folder="0" file="41" x="0.478125" y="556.95" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="193" name="electric_wave_connect_5_0_000">
+                <key id="0" time="165" spin="0">
+                    <object folder="0" file="41" x="0.478125" y="676.95" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="194" name="electric_wave_connect_6_0_000">
+                <key id="0" time="198" spin="0">
+                    <object folder="0" file="42" x="0.475" y="677.2" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="195" name="electric_wave_connect_6_1_000">
+                <key id="0" time="198" spin="0">
+                    <object folder="0" file="42" x="0.475" y="557.2" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="196" name="electric_wave_connect_7_1_000">
+                <key id="0" time="231" spin="0">
+                    <object folder="0" file="43" x="0.48125" y="557.075" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="197" name="electric_wave_connect_7_0_000">
+                <key id="0" time="231" spin="0">
+                    <object folder="0" file="43" x="0.48125" y="677.075" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="198" name="electric_wave_connect_8_0_000">
+                <key id="0" time="264" spin="0">
+                    <object folder="0" file="44" x="0.4875" y="676.95" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="199" name="electric_wave_connect_8_1_000">
+                <key id="0" time="264" spin="0">
+                    <object folder="0" file="44" x="0.4875" y="556.95" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="200" name="electric_wave_connect_9_1_000">
+                <key id="0" time="297" spin="0">
+                    <object folder="0" file="45" x="0.48125" y="557.2375" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="201" name="electric_wave_connect_9_0_000">
+                <key id="0" time="297" spin="0">
+                    <object folder="0" file="45" x="0.48125" y="677.2375" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="202" name="electric_wave_connect_10_0_000">
+                <key id="0" time="330" spin="0">
+                    <object folder="0" file="46" x="0.475" y="677.525" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="203" name="electric_wave_connect_10_1_000">
+                <key id="0" time="330" spin="0">
+                    <object folder="0" file="46" x="0.475" y="557.525" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="204" name="electric_wave_connect_11_0_000">
+                <key id="0" time="363" spin="0">
+                    <object folder="0" file="47" x="0.48125" y="677.38125" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="205" name="electric_wave_connect_11_1_000">
+                <key id="0" time="363" spin="0">
+                    <object folder="0" file="47" x="0.48125" y="557.38125" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="206" name="electric_wave_connect_12_0_000">
+                <key id="0" time="396" spin="0">
+                    <object folder="0" file="48" x="0.4875" y="677.2375" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="207" name="electric_wave_connect_12_1_000">
+                <key id="0" time="396" spin="0">
+                    <object folder="0" file="48" x="0.4875" y="557.2375" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="208" name="electric_wave_connect_13_1_000">
+                <key id="0" time="429" spin="0">
+                    <object folder="0" file="49" x="0.4875" y="557.4625" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="209" name="electric_wave_connect_13_0_000">
+                <key id="0" time="429" spin="0">
+                    <object folder="0" file="49" x="0.4875" y="677.4625" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="210" name="electric_wave_connect_14_0_000">
+                <key id="0" time="462" spin="0">
+                    <object folder="0" file="50" x="0.4875" y="677.6875" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="211" name="electric_wave_connect_14_1_000">
+                <key id="0" time="462" spin="0">
+                    <object folder="0" file="50" x="0.4875" y="557.6875" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="212" name="electric_wave_connect_15_1_000">
+                <key id="0" time="495" spin="0">
+                    <object folder="0" file="51" x="0.49375" y="557.575" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="213" name="electric_wave_connect_15_0_000">
+                <key id="0" time="495" spin="0">
+                    <object folder="0" file="51" x="0.49375" y="677.575" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="214" name="electric_wave_connect_16_0_000">
+                <key id="0" time="528" spin="0">
+                    <object folder="0" file="52" x="0.5" y="677.4625" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="215" name="electric_wave_connect_16_1_000">
+                <key id="0" time="528" spin="0">
+                    <object folder="0" file="52" x="0.5" y="557.4625" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="216" name="electric_wave_connect_17_1_000">
+                <key id="0" time="561" spin="0">
+                    <object folder="0" file="53" x="0.5" y="557.63125" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="217" name="electric_wave_connect_17_0_000">
+                <key id="0" time="561" spin="0">
+                    <object folder="0" file="53" x="0.5" y="677.63125" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="218" name="electric_wave_connect_18_1_000">
+                <key id="0" time="594" spin="0">
+                    <object folder="0" file="54" x="0.5" y="557.8" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="219" name="electric_wave_connect_18_0_000">
+                <key id="0" time="594" spin="0">
+                    <object folder="0" file="54" x="0.5" y="677.8" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="220" name="electric_wave_connect_19_1_000">
+                <key id="0" time="627" spin="0">
+                    <object folder="0" file="55" x="0.50625" y="557.7125" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="221" name="electric_wave_connect_19_0_000">
+                <key id="0" time="627" spin="0">
+                    <object folder="0" file="55" x="0.50625" y="677.7125" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="222" name="electric_wave_connect_20_0_000">
+                <key id="0" time="660" spin="0">
+                    <object folder="0" file="56" x="0.5125" y="677.625" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="223" name="electric_wave_connect_20_1_000">
+                <key id="0" time="660" spin="0">
+                    <object folder="0" file="56" x="0.5125" y="557.625" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="224" name="electric_wave_connect_21_1_000">
+                <key id="0" time="693" spin="0">
+                    <object folder="0" file="57" x="0.50625" y="557.75" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="225" name="electric_wave_connect_21_0_000">
+                <key id="0" time="693" spin="0">
+                    <object folder="0" file="57" x="0.50625" y="677.75" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="226" name="electric_wave_connect_22_1_000">
+                <key id="0" time="726" spin="0">
+                    <object folder="0" file="58" x="0.5" y="557.875" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="227" name="electric_wave_connect_22_0_000">
+                <key id="0" time="726" spin="0">
+                    <object folder="0" file="58" x="0.5" y="677.875" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="228" name="electric_wave_connect_23_1_000">
+                <key id="0" time="759" spin="0">
+                    <object folder="0" file="59" x="0.51875" y="557.8125" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="229" name="electric_wave_connect_23_0_000">
+                <key id="0" time="759" spin="0">
+                    <object folder="0" file="59" x="0.51875" y="677.8125" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="230" name="electric_wave_connect_24_1_000">
+                <key id="0" time="792" spin="0">
+                    <object folder="0" file="60" x="0.5375" y="557.75" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="231" name="electric_wave_connect_24_0_000">
+                <key id="0" time="792" spin="0">
+                    <object folder="0" file="60" x="0.5375" y="677.75" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="232" name="electric_wave_connect_25_1_000">
+                <key id="0" time="825" spin="0">
+                    <object folder="0" file="61" x="0.5125" y="557.88125" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="233" name="electric_wave_connect_25_0_000">
+                <key id="0" time="825" spin="0">
+                    <object folder="0" file="61" x="0.5125" y="677.88125" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="234" name="electric_wave_connect_26_1_000">
+                <key id="0" time="858" spin="0">
+                    <object folder="0" file="62" x="0.4875" y="558.0125" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="235" name="electric_wave_connect_26_0_000">
+                <key id="0" time="858" spin="0">
+                    <object folder="0" file="62" x="0.4875" y="678.0125" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="236" name="electric_wave_connect_27_0_000">
+                <key id="0" time="891" spin="0">
+                    <object folder="0" file="63" x="0.4875" y="677.85402" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="237" name="electric_wave_connect_27_1_000">
+                <key id="0" time="891" spin="0">
+                    <object folder="0" file="63" x="0.4875" y="557.85402" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="238" name="electric_wave_connect_28_0_000">
+                <key id="0" time="924" spin="0">
+                    <object folder="0" file="64" x="0.4875" y="677.49911" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="239" name="electric_wave_connect_28_1_000">
+                <key id="0" time="924" spin="0">
+                    <object folder="0" file="64" x="0.4875" y="557.49911" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="240" name="electric_wave_connect_29_0_000">
+                <key id="0" time="957" spin="0">
+                    <object folder="0" file="65" x="0.4875" y="676.94777" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="241" name="electric_wave_connect_29_1_000">
+                <key id="0" time="957" spin="0">
+                    <object folder="0" file="65" x="0.4875" y="556.94777" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="242" name="electric_wave_connect_30_0_000">
+                <key id="0" time="990" spin="0">
+                    <object folder="0" file="66" x="0.4875" y="676.2" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="243" name="electric_wave_connect_30_1_000">
+                <key id="0" time="990" spin="0">
+                    <object folder="0" file="66" x="0.4875" y="556.2" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="244" name="electric_wave_connect_31_0_000">
+                <key id="0" time="1023" spin="0">
+                    <object folder="0" file="67" x="0.4965" y="676.434" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="245" name="electric_wave_connect_31_1_000">
+                <key id="0" time="1023" spin="0">
+                    <object folder="0" file="67" x="0.4965" y="556.434" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="246" name="electric_wave_connect_32_1_000">
+                <key id="0" time="1056" spin="0">
+                    <object folder="0" file="68" x="0.5035" y="556.616" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="247" name="electric_wave_connect_32_0_000">
+                <key id="0" time="1056" spin="0">
+                    <object folder="0" file="68" x="0.5035" y="676.616" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="248" name="electric_wave_connect_33_1_000">
+                <key id="0" time="1089" spin="0">
+                    <object folder="0" file="69" x="0.5085" y="556.746" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="249" name="electric_wave_connect_33_0_000">
+                <key id="0" time="1089" spin="0">
+                    <object folder="0" file="69" x="0.5085" y="676.746" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="250" name="electric_wave_connect_34_1_000">
+                <key id="0" time="1122" spin="0">
+                    <object folder="0" file="70" x="0.5115" y="556.824" angle="90" scale_x="0.5" scale_y="0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="251" name="electric_wave_connect_34_0_000">
+                <key id="0" time="1122" spin="0">
+                    <object folder="0" file="70" x="0.5115" y="676.824" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="252" name="electric_wave_connect_35_0_000">
+                <key id="0" time="1155" spin="0">
+                    <object folder="0" file="71" x="0.5125" y="676.85" angle="90" scale_x="0.5" scale_y="-0.503128"/>
+                </key>
+            </timeline>
+            <timeline id="253" name="electric_wave_connect_35_1_000">
+                <key id="0" time="1155" spin="0">
+                    <object folder="0" file="71" x="0.5125" y="556.85" angle="90" scale_x="0.5" scale_y="0.503128"/>
                 </key>
             </timeline>
         </animation>
