@@ -1,0 +1,279 @@
+
+gasStorage.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Bubble
+  rotate: false
+  xy: 667, 606
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: 0
+Buttons
+  rotate: false
+  xy: 413, 489
+  size: 46, 186
+  orig: 46, 186
+  offset: 0, 0
+  index: 0
+Cabel
+  rotate: false
+  xy: 461, 594
+  size: 60, 81
+  orig: 60, 81
+  offset: 0, 0
+  index: 0
+Control_panel
+  rotate: false
+  xy: 568, 650
+  size: 213, 67
+  orig: 213, 67
+  offset: 0, 0
+  index: 0
+Expansion_tank
+  rotate: false
+  xy: 184, 214
+  size: 203, 121
+  orig: 203, 121
+  offset: 0, 0
+  index: 0
+Pipe_expansion_tank
+  rotate: false
+  xy: 867, 745
+  size: 82, 154
+  orig: 82, 154
+  offset: 0, 0
+  index: 0
+Pressure_tank
+  rotate: false
+  xy: 568, 719
+  size: 297, 303
+  orig: 297, 303
+  offset: 0, 0
+  index: 0
+Stand
+  rotate: false
+  xy: 2, 41
+  size: 136, 48
+  orig: 136, 48
+  offset: 0, 0
+  index: 0
+Storage
+  rotate: false
+  xy: 2, 337
+  size: 409, 338
+  orig: 409, 338
+  offset: 0, 0
+  index: 0
+Storage_pipe
+  rotate: false
+  xy: 867, 901
+  size: 154, 121
+  orig: 154, 121
+  offset: 0, 0
+  index: 0
+Valve_side
+  rotate: false
+  xy: 951, 773
+  size: 47, 126
+  orig: 47, 126
+  offset: 0, 0
+  index: 0
+Valve_storage
+  rotate: false
+  xy: 184, 2
+  size: 96, 92
+  orig: 96, 92
+  offset: 0, 0
+  index: 0
+Valve_tank
+  rotate: false
+  xy: 783, 648
+  size: 48, 69
+  orig: 48, 69
+  offset: 0, 0
+  index: 0
+frame
+  rotate: false
+  xy: 413, 378
+  size: 107, 109
+  orig: 107, 109
+  offset: 0, 0
+  index: 0
+hand
+  rotate: false
+  xy: 1000, 856
+  size: 15, 43
+  orig: 15, 43
+  offset: 0, 0
+  index: 0
+meter_frame
+  rotate: false
+  xy: 2, 91
+  size: 180, 244
+  orig: 180, 244
+  offset: 0, 0
+  index: 0
+meter_target
+  rotate: false
+  xy: 2, 91
+  size: 180, 244
+  orig: 180, 244
+  offset: 0, 0
+  index: 0
+meter_level
+  rotate: false
+  xy: 282, 2
+  size: 34, 92
+  orig: 34, 92
+  offset: 0, 0
+  index: 16
+meter_level
+  rotate: false
+  xy: 342, 106
+  size: 36, 106
+  orig: 36, 106
+  offset: 0, 0
+  index: 19
+meter_level
+  rotate: false
+  xy: 461, 492
+  size: 36, 100
+  orig: 36, 100
+  offset: 0, 0
+  index: 18
+meter_level
+  rotate: false
+  xy: 389, 239
+  size: 34, 96
+  orig: 34, 96
+  offset: 0, 0
+  index: 17
+meter_level
+  rotate: false
+  xy: 523, 593
+  size: 34, 82
+  orig: 34, 82
+  offset: 0, 0
+  index: 14
+meter_level
+  rotate: false
+  xy: 318, 8
+  size: 34, 86
+  orig: 34, 86
+  offset: 0, 0
+  index: 15
+meter_level
+  rotate: false
+  xy: 833, 645
+  size: 34, 72
+  orig: 34, 72
+  offset: 0, 0
+  index: 12
+meter_level
+  rotate: false
+  xy: 354, 28
+  size: 34, 76
+  orig: 34, 76
+  offset: 0, 0
+  index: 13
+meter_level
+  rotate: false
+  xy: 140, 41
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: 7
+meter_level
+  rotate: false
+  xy: 354, 2
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: 2
+meter_level
+  rotate: false
+  xy: 559, 590
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: 9
+meter_level
+  rotate: false
+  xy: 595, 586
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: 10
+meter_level
+  rotate: false
+  xy: 631, 580
+  size: 34, 68
+  orig: 34, 68
+  offset: 0, 0
+  index: 11
+meter_level
+  rotate: false
+  xy: 715, 604
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: 6
+meter_level
+  rotate: false
+  xy: 413, 338
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: 5
+meter_level
+  rotate: false
+  xy: 447, 324
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: 8
+meter_level
+  rotate: false
+  xy: 2, 5
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: 4
+meter_level
+  rotate: false
+  xy: 483, 348
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: 3
+meter_level
+  rotate: false
+  xy: 751, 630
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: 0
+meter_level
+  rotate: false
+  xy: 751, 630
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: 1
+place
+  rotate: false
+  xy: 2, 677
+  size: 564, 345
+  orig: 564, 345
+  offset: 0, 0
+  index: 0
+ui
+  rotate: false
+  xy: 184, 96
+  size: 156, 116
+  orig: 156, 116
+  offset: 0, 0
+  index: 0

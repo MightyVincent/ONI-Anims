@@ -1,2 +1,11 @@
-D:\jdk-12.0.2\bin\java.exe -jar .\kparser_0.2.jar scml %image% %build% %anim%
-D:\jdk-12.0.2\bin\java.exe -jar .\kparser_0.2.jar kanim %scml%
+$ java -jar --to-scml airconditioner/airconditioner_0.png airconditioner/airconditioner_build.bytes airconditioner/airconditioner_anim.bytes
+OR
+$ java -jar -S airconditioner/airconditioner_0.png airconditioner/airconditioner_build.bytes airconditioner/airconditioner_anim.bytes
+
+
+~/my_scml_project_dir $ java -jar kparser.jar --to-kanim my_scml.scml
+(or)
+~/my_scml_project_dir $ java -jar kparser.jar -k my_scml.scml
+
+
+java -jar ..\kparserX.jar -k .\scml\gasstorage_0.scml -o ./kanim
